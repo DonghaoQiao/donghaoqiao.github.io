@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Donghao's homepage
 
-You can use the [editor on GitHub](https://github.com/DonghaoQiao/donghaoqiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[GitHub](https://github.com/DonghaoQiao)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
